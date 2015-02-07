@@ -1,6 +1,6 @@
-# Aperture Science - Portal End Credits in HTML/JS/CSS
+# Magnet Science - Magnet Arts Night in HTML/JS/CSS
 
-This project has been made by @Rudench and adapted by @xBytez and hosted by @xBytez on https://xbytez.eu/ with permission from the original author @Rudench.
+This project was adapted from the project made by @Rudench and adapted by @xBytez and hosted by @xBytez on https://xbytez.eu/. It is an attempt to simulate the Magnet Arts Night "On Vacation" parody.
 
 # FAQ
 
@@ -9,7 +9,3 @@ This project has been made by @Rudench and adapted by @xBytez and hosted by @xBy
 Creative Commons Attribution-ShareAlike 4.0 International
 
 Check LICENSE.md or visit http://creativecommons.org/licenses/by-sa/4.0/
-
-* Will there be a Portal 2/Want you gone version
-
-Yes, there is a WIP in the portal2 folder, I don't have the UI quite done yet, feel free to submit pull requests! (https://xbytez.eu/portal2)
