@@ -1,11 +1,11 @@
 /*Creative Commons License Portal End Credits Web by xBytez/TylaKitty/Valve is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://xbytez.eu/. */
 
 body {
-    color: red;
+    color: yellow;
     font-family: monospace;
     font-size: 9pt;
     line-height: 1.60em;
-    background-color: white;
+    background-color: black;
 }
 #lyrics {
     position: absolute;

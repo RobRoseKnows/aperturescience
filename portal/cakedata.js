@@ -16,7 +16,7 @@ var asciiart = {
     "9": ["                                     :X-", "                                  :X### ", "                                ;@####@ ", "                              ;M######X ", "                            -@########$ ", "                          .$##########@ ", "                         =M############-", "                        +##############$", "                      .H############$=. ", "         ,/:         ,M##########M;.    ", "      -+@###;       =##########M;       ", "   =%M#######;     :#########M/         ", "-$M###########;   :#########/           ", " ,;X###########; =########$.            ", "     ;H#########+#######M=              ", "       ,+##############+                ", "          /M#########@-                 ", "            ;M######%                   ", "              +####:                    ", "               ,$M-                     "],
     "8": ["                          .,---.        ", "                        ,/XM#MMMX;,     ", "                      -%##########M%,   ", "                     -@######%  $###@=  ", "      .,--,         -H#######$   $###M: ", "   ,;$M###MMX;     .;##########$;HM###X=", " ,/@##########H=      ;################+", "-+#############M/,      %##############+", "%M###############=      /##############:", "H################      .M#############;.", "@###############M      ,@###########M:. ", "X################,      -$=X#######@:   ", "/@##################%-     +######$-    ", ".;##################X     .X#####+,     ", " .;H################/     -X####+.      ", "   ,;X##############,       .MM/        ", "      ,:+$H@M#######M#$-    .$$=        ", "           .,-=;+$@###X:    ;/=.        ", "                  .,/X$;   .::,         ", "                      .,    ..          "]
 };
-var credits = [">LIST PERSONNEL", " ", " ", "Gautam Babbar", "Ted Backman", "Kelly Bailey", "Jeff Ballinger", "Aaron Barber", "Jeep Barnett", "Jeremy Bennett", "Dan Berger", "Yahn Bernier", "Ken Birdwell", "Derrick Birum", "Mike Blaszczak", "Iestyn Bleasdale-Shepherd", "Chris Bokitch", "Steve Bond", "Matt Boone", "Antoine Bourdon", "Jamaal Bradley", "Jason Brashill", "Charlie Brown", "Charlie Burgin", "Andrew Burke", "Augusta Butlin", "Julie Caldwell", "Dario Casali", "Chris Chin", "Jess Cliffe", "Phil Co", "John Cook", "Christen Coomer", "Greg Coomer", "Scott Dalton", "Kerry Davis", "Jason Deakins", "Joe Demers", "Ariel Diaz", "Quintin Doroquez", "Jim Dose", "Chris Douglass", "Laura Dubuk", "Mike Dunkle", "Mike Durand", "Mike Dussault", "Dhabih Eng", "Katie Engel", "Chet Faliszek", "Adrian Finol", "Bill Fletcher", "Moby Francke", "Stephane Gaudette", "Kathy Gehrig", "Vitaliy Genkin", "Paul Graham", "Chris Green", "Chris Grinstead", "John Guthrie", "Aaron Halifax", "Reagan Halifax", "Leslie Hall", "Jeff Hameluck", "Joe Han", "Don Holden", "Jason Holtman", "Gray Horsfield", "Keith Huggins", "Jim Hughes", "Jon Huisingh", "Brian Jacobson", "Lars Jensvold", "Erik Johnson", "Jakob Jungels", "Rich Kaethler", "Steve Kalning", "Aaron Kearly", "Iikka Keranen", "David Kircher", "Eric Kirchmer", "Scott Klintworth", "Alden Kroll", "Marc Laidlaw", "Jeff Lane", "Tim Larkin", "Dan LeFree", "Isabelle LeMay", "Tom Leonard", "Jeff Lind", "Doug Lombardi", "Bianca Loomis", "Richard Lord", "Realm Lovejoy", "Randy Lundeen", "Scott Lynch", "Ido Magal", "Nick Maggiore", "John McCaskey", "Patrick McClard", "Steve McClure", "Hamish McKenzie", "Gary McTaggart", "Jason Mitchell", "Mike Morasky", "John Morello II", "Bryn Moslow", "Arsenio Navarro", "Gabe Newell", "Milton Ngan", "Jake Nicholson", "Martin Otten", "Nick Papineau", "Karen Prell", "Bay Raitt", "Tristan Reidford", "Alfred Reynolds", "Matt Rhoten", "Garret Rickey", "Dave Riller", "Elan Ruskin", "Matthew Russell", "Jason Ruymen", "David Sawyer", "Marc Scaparro", "Wade Schin", "Matthew Scott", "Aaron Seeler", "Jennifer Seeley", "Taylor Sherman", "Eric Smith", "Jeff Sorensen", "David Speyrer", "Jay Stelly", "Jeremy Stone", "Eric Strand", "Kim Swift", "Kelly Thornton", "Eric Twelker", "Carl Uhlman", "Doug Valente", "Bill Van Buren", "Gabe Van Engel", "Alex Vlachos", "Robin Walker", "Joshua Weier", "Andrea Wicklund", "Greg Winkler", "Erik Wolpaw", "Doug Wood", "Matt T. Wood", "Danika Wright", "Matt Wright", "Shawn Zabecki", "Torsten Zabka ", " ", " ", " ", " ", "'Still Alive' by:", "Jonathan Coulton", " ", " ", " ", "Voices:", "Ellen McLain - GlaDOS, Turrets", "Mike Patton - THE ANGER SPHERE", " ", " ", " ", "Voice Casting:", "Shana Landsburg\Teri Fiddleman", " ", " ", " ", " ", "Voice Recording:", "Pure Audio, Seattle, WA", " ", " ", " ", " ", "Voice recording", "scheduling and logistics:", "Pat Cockburn, Pure Audio", " ", " ", " ", " ", "Translations:", "SDL", " ", " ", " ", " ", "Crack Legal Team:", "Liam Lavery", "Karl Quackenbush", "Kristen Boraas", "Kevin Rosenfield", "Alan Bruggeman", "Dennis Tessier", " ", " ", " ", "Thanks for the use of their face:", "Alesia Glidewell - Chell", " ", " ", " ", "Special thanks to everyone at:", "Alienware", "ATI", "Dell", "Falcon Northwest", "Havok", "SOFTIMAGE", "and Don Kemmis, SLK Technologies", " ", " ", " ", " ", " ", " ", " ", " ", " ", "THANK YOU FOR PARTICIPATING", "IN THIS", "ENRICHMENT CENTER ACTIVITY!!", " ", " ", " ", " ", " ", ""];
+var credits = [">LIST STUDENTS", " ", " ", "Gautam Babbar", "Ted Backman", "Kelly Bailey", "Jeff Ballinger", "Aaron Barber", "Jeep Barnett", "Jeremy Bennett", "Dan Berger", "Yahn Bernier", "Ken Birdwell", "Derrick Birum", "Mike Blaszczak", "Iestyn Bleasdale-Shepherd", "Chris Bokitch", "Steve Bond", "Matt Boone", "Antoine Bourdon", "Jamaal Bradley", "Jason Brashill", "Charlie Brown", "Charlie Burgin", "Andrew Burke", "Augusta Butlin", "Julie Caldwell", "Dario Casali", "Chris Chin", "Jess Cliffe", "Phil Co", "John Cook", "Christen Coomer", "Greg Coomer", "Scott Dalton", "Kerry Davis", "Jason Deakins", "Joe Demers", "Ariel Diaz", "Quintin Doroquez", "Jim Dose", "Chris Douglass", "Laura Dubuk", "Mike Dunkle", "Mike Durand", "Mike Dussault", "Dhabih Eng", "Katie Engel", "Chet Faliszek", "Adrian Finol", "Bill Fletcher", "Moby Francke", "Stephane Gaudette", "Kathy Gehrig", "Vitaliy Genkin", "Paul Graham", "Chris Green", "Chris Grinstead", "John Guthrie", "Aaron Halifax", "Reagan Halifax", "Leslie Hall", "Jeff Hameluck", "Joe Han", "Don Holden", "Jason Holtman", "Gray Horsfield", "Keith Huggins", "Jim Hughes", "Jon Huisingh", "Brian Jacobson", "Lars Jensvold", "Erik Johnson", "Jakob Jungels", "Rich Kaethler", "Steve Kalning", "Aaron Kearly", "Iikka Keranen", "David Kircher", "Eric Kirchmer", "Scott Klintworth", "Alden Kroll", "Marc Laidlaw", "Jeff Lane", "Tim Larkin", "Dan LeFree", "Isabelle LeMay", "Tom Leonard", "Jeff Lind", "Doug Lombardi", "Bianca Loomis", "Richard Lord", "Realm Lovejoy", "Randy Lundeen", "Scott Lynch", "Ido Magal", "Nick Maggiore", "John McCaskey", "Patrick McClard", "Steve McClure", "Hamish McKenzie", "Gary McTaggart", "Jason Mitchell", "Mike Morasky", "John Morello II", "Bryn Moslow", "Arsenio Navarro", "Gabe Newell", "Milton Ngan", "Jake Nicholson", "Martin Otten", "Nick Papineau", "Karen Prell", "Bay Raitt", "Tristan Reidford", "Alfred Reynolds", "Matt Rhoten", "Garret Rickey", "Dave Riller", "Elan Ruskin", "Matthew Russell", "Jason Ruymen", "David Sawyer", "Marc Scaparro", "Wade Schin", "Matthew Scott", "Aaron Seeler", "Jennifer Seeley", "Taylor Sherman", "Eric Smith", "Jeff Sorensen", "David Speyrer", "Jay Stelly", "Jeremy Stone", "Eric Strand", "Kim Swift", "Kelly Thornton", "Eric Twelker", "Carl Uhlman", "Doug Valente", "Bill Van Buren", "Gabe Van Engel", "Alex Vlachos", "Robin Walker", "Joshua Weier", "Andrea Wicklund", "Greg Winkler", "Erik Wolpaw", "Doug Wood", "Matt T. Wood", "Danika Wright", "Matt Wright", "Shawn Zabecki", "Torsten Zabka ", " ", " ", " ", " ", "'Still Alive' by:", "Jonathan Coulton", " ", " ", " ", "Voices:", "Ellen McLain - GlaDOS, Turrets", "Mike Patton - THE ANGER SPHERE", " ", " ", " ", "Voice Casting:", "Shana Landsburg\Teri Fiddleman", " ", " ", " ", " ", "Voice Recording:", "Pure Audio, Seattle, WA", " ", " ", " ", " ", "Voice recording", "scheduling and logistics:", "Pat Cockburn, Pure Audio", " ", " ", " ", " ", "Translations:", "SDL", " ", " ", " ", " ", "Crack Legal Team:", "Liam Lavery", "Karl Quackenbush", "Kristen Boraas", "Kevin Rosenfield", "Alan Bruggeman", "Dennis Tessier", " ", " ", " ", "Thanks for the use of their face:", "Alesia Glidewell - Chell", " ", " ", " ", "Special thanks to everyone at:", "Alienware", "ATI", "Dell", "Falcon Northwest", "Havok", "SOFTIMAGE", "and Don Kemmis, SLK Technologies", " ", " ", " ", " ", " ", " ", " ", " ", " ", "THANK YOU FOR PARTICIPATING", "IN THIS", "ENRICHMENT CENTER ACTIVITY!!", " ", " ", " ", " ", " ", ""];
 var lyrics = [{
     delay: "2.00",
     text: "Forms FORM-29827281-12:",
@@ -25,7 +25,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.00",
-    text: "Test Assessment Report",
+    text: "Ignored Resume",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -49,7 +49,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.05",
-    text: "This was a triumph.",
+    text: "Mine was a triumph.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -61,7 +61,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.1",
-    text: "I'm making a note here:",
+    text: "I know I\'ll get Intel:",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -73,7 +73,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.8",
-    text: "HUGE SUCCESS.",
+    text: "FINALIST.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -109,7 +109,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.76",
-    text: "Aperture Science",
+    text: "SRP Research",
     nonewline: 0,
     clear: 0,
     changepicture: 1
@@ -133,7 +133,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "0.75",
-    text: "because",
+    text: "\'cause",
     nonewline: 1,
     clear: 0,
     changepicture: -1
@@ -145,7 +145,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "0.71",
-    text: "we can.",
+    text: "we're interns.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -163,7 +163,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.53",
-    text: " of all of us.",
+    text: " of our mentors",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -175,7 +175,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.741",
-    text: "Except the ones who are dead.",
+    text: "Even when they don't show up.",
     nonewline: 0,
     clear: 0,
     changepicture: 6
@@ -199,7 +199,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.782",
-    text: "over every mistake.",
+    text: "over every missed line.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -229,7 +229,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "0.400",
-    text: " cake.",
+    text: " time.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -241,13 +241,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.97",
-    text: "And the Science gets done.",
+    text: "And the coding gets done.",
     nonewline: 0,
     clear: 0,
     changepicture: 5
 }, {
     delay: "1.97",
-    text: "And you make a neat gun.",
+    text: "But nobody sees it run,",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -259,7 +259,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.52",
-    text: "For the people who are",
+    text: "\'cause our mentors are",
     nonewline: 0,
     clear: 0,
     changepicture: 1
@@ -271,7 +271,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.50",
-    text: "still alive.",
+    text: "on vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -295,7 +295,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.10",
-    text: "Personnel File Addendum:",
+    text: "Personalized Cover Letter:",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -307,7 +307,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.35",
-    text: "Dear <<Subject Name Here>>,",
+    text: "Dear <<Guy Guy Guy>>,",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -367,7 +367,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.347",
-    text: "though you ",
+    text: "though they ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
@@ -391,7 +391,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "0.488",
-    text: "killed ",
+    text: "left ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
@@ -409,7 +409,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.649",
-    text: "And tore me to pieces.",
+    text: "And bored me to pieces.",
     nonewline: 0,
     clear: 0,
     changepicture: 3
@@ -457,7 +457,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.400",
-    text: "As they burned ",
+    text: "But I learned ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
@@ -475,7 +475,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.625",
-    text: "I was so happy for you!",
+    text: "I was so desperate for you!",
     nonewline: 0,
     clear: 0,
     changepicture: 9
@@ -499,43 +499,43 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.020",
-    text: "And we're out of beta.",
+    text: "And we've check our progress.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.950",
-    text: "We're releasing on time.",
+    text: "We're finishing on time.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "2.113",
-    text: "So I'm GLaD. I got burned.",
+    text: "So I'm GLaD I interned.",
     nonewline: 0,
     clear: 0,
     changepicture: 3
 }, {
     delay: "2.020",
-    text: "Think of all the things we learned",
+    text: "Think of all the things I learned",
     nonewline: 0,
     clear: 0,
     changepicture: 5
 }, {
     delay: "1.556",
-    text: "for the people who are",
+    text: "for our mentors who are",
     nonewline: 0,
     clear: 0,
     changepicture: 1
 }, {
     delay: "0.395",
-    text: "still",
+    text: "on",
     nonewline: 1,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.440",
-    text: " alive.",
+    text: " vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -559,7 +559,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.31",
-    text: "Personnel File Addendum Addendum:",
+    text: "Cover Letter Addendum:",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -571,7 +571,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.20",
-    text: "One last thing:",
+    text: "Guy wait:",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -649,7 +649,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.254",
-    text: "to help you.",
+    text: "to mentor.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -667,13 +667,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "0.325",
-    text: "Black ",
+    text: "from ",
     nonewline: 1,
     clear: 0,
     changepicture: 7
 }, {
     delay: "0.998",
-    text: "Mesa",
+    text: "TJ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
@@ -721,13 +721,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.765",
-    text: ", this cake is great.",
+    text: ", this job is great.",
     nonewline: 0,
     clear: 0,
     changepicture: 2
 }, {
     delay: "1.904",
-    text: "It's so delicious and moist.",
+    text: "It's so tedious and dull.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -745,7 +745,7 @@ var lyrics = [{
     changepicture: 12
 }, {
     delay: "2.090",
-    text: "when there's Science to do.",
+    text: "when there's science to do.",
     nonewline: 0,
     clear: 0,
     changepicture: 6
@@ -775,19 +775,19 @@ var lyrics = [{
     changepicture: 3
 }, {
     delay: "1.625",
-    text: "On the people who are",
+    text: "For our mentors who are",
     nonewline: 0,
     clear: 0,
     changepicture: 1
 }, {
     delay: "0.348",
-    text: "still ",
+    text: "on ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.440",
-    text: "alive.",
+    text: "vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -835,13 +835,13 @@ var lyrics = [{
     changepicture: 0
 }, {
     delay: "1.625",
-    text: "And believe me I am",
+    text: "And believe me they're",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.138",
-    text: "still alive.",
+    text: "on vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -859,13 +859,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.904",
-    text: "I'm doing Science and I'm",
+    text: "I'm doing Science and they're",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.091",
-    text: "still alive.",
+    text: "on vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -883,13 +883,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.904",
-    text: "I feel FANTASTIC and I'm",
+    text: "While I'm STRESSED, they're",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.091",
-    text: "still alive.",
+    text: "on vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -907,13 +907,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.579",
-    text: "While you're dying I'll be",
+    text: "While I'm trying they'll be",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.254",
-    text: "still alive.",
+    text: "on vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -931,13 +931,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.834",
-    text: "And when you're dead I will be",
+    text: "When I'm done they'll be",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.161",
-    text: "still alive.",
+    text: "on vacation.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -955,7 +955,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.184",
-    text: "STILL ALIVE",
+    text: "VACATION",
     nonewline: 0,
     clear: 0,
     changepicture: -1
