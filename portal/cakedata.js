@@ -394,7 +394,7 @@ var credits =  [">LIST STUDENTS",
                 "ENRICHMENT CENTER ACTIVITY!!",
                 " ", " ", " ", " ", " ", ""];
 var lyrics = [{
-    delay: "2.00",
+    delay: "2.0",
     text: "Forms FORM-29827281-12:",
     nonewline: 0,
     clear: 0,
@@ -418,7 +418,7 @@ var lyrics = [{
     clear: 0,
     changepicture: -1
 }, {
-    delay: "2.85",
+    delay: "3.5",
     text: "",
     nonewline: 1,
     clear: 0,
@@ -851,7 +851,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.625",
-    text: "I was so desperate for this job!",
+    text: "I was so desperate for you!",
     nonewline: 0,
     clear: 0,
     changepicture: 9
@@ -875,13 +875,13 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.020",
-    text: "And we've check our progress.",
+    text: "And we've checked our progress.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
 }, {
     delay: "1.950",
-    text: "We're finishing on time.",
+    text: "We will finish on time.",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -983,7 +983,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.184",
-    text: "I prefer ",
+    text: "I'd prefer ",
     nonewline: 1,
     clear: 0,
     changepicture: -1
@@ -1235,7 +1235,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.904",
-    text: "I'm doing Science and they're",
+    text: "I'm doing Science; they're",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -1259,7 +1259,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.904",
-    text: "While I'm STRESSED, they're",
+    text: "While I'm STRESSED, they are",
     nonewline: 0,
     clear: 0,
     changepicture: -1
@@ -1283,7 +1283,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "1.579",
-    text: "While I'm trying they'll be",
+    text: "While I'm trying they're ",
     nonewline: 0,
     clear: 0,
     changepicture: -1
