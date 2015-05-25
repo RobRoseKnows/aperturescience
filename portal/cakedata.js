@@ -1,4 +1,4 @@
-/* Creative Commons License Portal End Credits Web by xBytez/TylaKitty/Valve is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://xbytez.eu/. */
+/* Creative Commons License Portal End Credits Web by RobRoseKnows/xBytez/TylaKitty/Valve is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://alive.robroseknows.me/. */
 var asciiart = {
     "11":  ["                     -$-                ",
             "                    .H##H,              ",
@@ -368,7 +368,7 @@ var credits =  [">LIST STUDENTS",
                 " ", " ", " ",
                 "Music Stuff by:", "Brynne Edwards",
                 " ", " ", " ", " ",
-                "Programmed by:", "Robert Rose", "@xBytez",
+                "Programmed by:", "Robert Rose", "@Rudench",
                 //" ", " ", " ",
                 //"Deployed with help from:", "Peter Hammond", " ",               //Leave that open incase I need to add a Sysop.
                 " ", " ", " ", " ",
@@ -391,7 +391,7 @@ var credits =  [">LIST STUDENTS",
                 " ", " ", " ", " ", " ", " ", " ", " ", " ",
                 "THANK YOU FOR PARTICIPATING",
                 "IN THIS",
-                "ENRICHMENT CENTER ACTIVITY!!",
+                "CLASS OF 2015 ACTIVITY!!",
                 " ", " ", " ", " ", " ", ""];
 var lyrics = [{
     delay: "2.0",
