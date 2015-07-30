@@ -368,7 +368,7 @@ var credits =  [">LIST STUDENTS",
                 " ", " ", " ",
                 "Music Stuff by:", "Brynne Edwards",
                 " ", " ", " ", " ",
-                "Programmed by:", "Robert Rose", "@Rudench", "@xBytez"
+                "Programmed by:", "@RobRoseKnows", "@Rudench", "@xBytez",
                 //" ", " ", " ",
                 //"Deployed with help from:", "Peter Hammond", " ",               //Leave that open incase I need to add a Sysop.
                 " ", " ", " ", " ",
