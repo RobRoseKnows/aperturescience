@@ -368,7 +368,7 @@ var credits =  [">LIST STUDENTS",
                 " ", " ", " ",
                 "Music Stuff by:", "Brynne Edwards",
                 " ", " ", " ", " ",
-                "Programmed by:", "Robert Rose", "@Rudench",
+                "Programmed by:", "Robert Rose", "@Rudench", "@xBytez"
                 //" ", " ", " ",
                 //"Deployed with help from:", "Peter Hammond", " ",               //Leave that open incase I need to add a Sysop.
                 " ", " ", " ", " ",
@@ -383,7 +383,7 @@ var credits =  [">LIST STUDENTS",
                 "Catholic University of America", "Children's National Medical Center",
                 "Chincoteague Bay Field Station", "Erickson & Hong Orthodontics",
                 "Georgetown University", "Google Inc.", "Johns Hopkins", "Montgomery Blair High School",
-                "National Institute of Allergy and Infectious Diseases", "National Institute of Standards and Technology",
+                "NIAID", "National Institute of Standards and Technology",
                 "National Institutes of Health", "Naval Research Laboratory", "Novavax",
                 "Smithsonian Tropical Research Institute", "Stanford University",
                 "Stony Brook University", "Uniformed Services University of the Health Science",
@@ -394,7 +394,7 @@ var credits =  [">LIST STUDENTS",
                 "CLASS OF 2015 ACTIVITY!!",
                 " ", " ", " ", " ", " ", ""];
 var lyrics = [{
-    delay: "2.0",
+    delay: "2.00",
     text: "Forms FORM-29827281-12:",
     nonewline: 0,
     clear: 0,
@@ -947,7 +947,7 @@ var lyrics = [{
     changepicture: -1
 }, {
     delay: "2.20",
-    text: "Guy wait:",
+    text: "Guy wait, time for pep talk:",
     nonewline: 0,
     clear: 0,
     changepicture: -1
