@@ -7,6 +7,25 @@ body {
     line-height: 1.60em;
     background-color: black;
 }
+body .sharingWrapperModule {
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    z-index: 99999;
+    background-color: #000000;
+    border-top: yellow;
+    width: 100%;
+}
+body .sharingWrapperModule .sharingContainerModule {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+body .sharingWrapperModule .sharingContainerModule {
+    display: inline;
+}
 #lyrics {
     position: absolute;
     left: 2em;
