@@ -8,13 +8,13 @@ body {
     background-color: black;
 }
 body .sharingWrapperModule {
-    display: block;
     position: fixed;
     bottom: 0px;
     z-index: 99999;
     background-color: #000000;
     border-top: yellow;
     width: 100%;
+    font-size: 16pt;
 }
 body .sharingWrapperModule .sharingContainerModule {
     margin-top: 10px;
@@ -23,8 +23,20 @@ body .sharingWrapperModule .sharingContainerModule {
     margin-left: auto;
     position: relative;
 }
-body .sharingWrapperModule .sharingContainerModule {
+body .sharingWrapperModule .sharingContainerModule li {
     display: inline;
+}
+a:link {
+    color: yellow;
+}
+a:visited {
+    color: #CCCC00;
+}
+a:active {
+    color: #CCCC00;
+}
+a:hover {
+    color: #FFFF99
 }
 #lyrics {
     position: absolute;
