@@ -5,6 +5,7 @@ var cake = {
     creditsMaxTime: 173,
     blinkerTime: 0.3 * 1000,
     maxCredits: 15,
+    clears: 0,
     firstLyricsIndex: 0,
     lastCreditsIndex: 0,
     init: function() {
@@ -163,6 +164,9 @@ var cake = {
     clearLyrics: function() {
         cake.lyricsdiv.innerHTML = "";
         cake.lyricsdiv.appendChild(cake.lyricsBlinker);
+        clears++;
+        if(clears == 5)
+          finalLine();
     },
     setPicture: function(id) {
         var picture = document.getElementById("picturetext");
@@ -228,6 +232,9 @@ var cake = {
             setTimeout("cake.processCreditLine(" + index + ")", delay);
             delay += credits[index].length * cake.creditsDelay;
         }
+    },
+    finalLine: function() {
+        document.getElementById("sharingBlock").style.visibility="visible";
     }
 }
 window.onLoad = setTimeout("cake.init()", 2);
