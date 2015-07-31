@@ -164,9 +164,9 @@ var cake = {
     clearLyrics: function() {
         cake.lyricsdiv.innerHTML = "";
         cake.lyricsdiv.appendChild(cake.lyricsBlinker);
-        clears++;
-        if(clears == 5)
-          finalLine();
+        cake.clears++;
+        if(cake.clears == 5)
+          cake.finalLine();
     },
     setPicture: function(id) {
         var picture = document.getElementById("picturetext");
