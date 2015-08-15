@@ -24,8 +24,8 @@ body .sharingWrapperModule .sharingContainerModule {
     margin-left: auto;
     position: relative;
 }
-body .sharingWrapperModule .sharingContainerModule li {
-    display: inline;
+.sharingList {
+    display: none;
 }
 a:link {
     color: yellow;

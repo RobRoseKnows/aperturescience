@@ -235,6 +235,7 @@ var cake = {
     },
     finalLine: function() {
         document.getElementById("sharingBlock").style.visibility="visible";
+        $('.sharingList').css("display","inline");
     }
 }
 window.onLoad = setTimeout("cake.init()", 2);
