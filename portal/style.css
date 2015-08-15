@@ -27,6 +27,9 @@ body .sharingWrapperModule .sharingContainerModule {
 .sharingList {
     display: none;
 }
+.sharingListVisible {
+    display: inline;
+}
 a:link {
     color: yellow;
 }
