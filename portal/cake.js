@@ -239,4 +239,3 @@ var cake = {
     }
 }
 window.onLoad = setTimeout("cake.init()", 2);
-window.onLoad = setTimeout("cake.finalLine()", 5000);
