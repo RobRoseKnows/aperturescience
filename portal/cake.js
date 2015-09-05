@@ -25,6 +25,7 @@ var cake = {
         if (cake.player.play) {
             cake.player.setAttribute('prebuffer', 'auto');
             cake.player.setAttribute('src', 'Still Alive.ogg');
+            cake.player.load();
             setTimeout("cake.player.play()", delay);
         }
     },
@@ -166,7 +167,7 @@ var cake = {
         cake.lyricsdiv.appendChild(cake.lyricsBlinker);
         cake.clears++;
         if(cake.clears == 5)
-          cake.finalLine();
+          setTimeout("cake.finalLine()", 15);
     },
     setPicture: function(id) {
         var picture = document.getElementById("picturetext");
